@@ -10,7 +10,7 @@ import Foundation
 import UIKit
 
 
-extension UIDevice {
+public extension UIDevice {
     enum ScreenType: String {
         case iPhone4 = "iPhone 4 or iPhone 4S"
         case iPhone5 = "iPhone 5, iPhone 5s, iPhone 5c or iPhone SE"
